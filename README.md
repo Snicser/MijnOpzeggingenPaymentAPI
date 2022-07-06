@@ -1,0 +1,2 @@
+# MijnOpzeggingenPaymentAPI
+MijnOpzeggingen PaymentAPI - GenericPaymentAPI
