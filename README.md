@@ -1,6 +1,9 @@
-# MijnOpzeggingenPaymentAPI
-MijnOpzeggingen PaymentAPI - GenericPaymentAPI
+## GenericPaymentAPI made by Flavio Schoute
 
-###
-- Met Laravel Password
-- Laravel Stripe
+#####V2 updates ToDo
+- [ ] Disable cache 
+- [x] Bacs Debit 
+- [ ] Better structure code, Services etc.
+- [x] Change Welcome view blade
+- [x] Server path in the response
+- [ ] Simplify .ENV to JSON (MijnOpzeggingen Code)
